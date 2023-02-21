@@ -1,2 +1,4 @@
 # hello-world-2
-Test
+Edited version of the README file
+
+Hi, my name is Maya.
